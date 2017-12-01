@@ -10,6 +10,6 @@ Camera Effects
 
 This is my Camera affects Projects.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![John Gault](https://github.com/deerslayer1209/deerslayer1209.github.io/blob/master/John%20Gault.PNG?raw=true "Optional Title")
 
 ***
